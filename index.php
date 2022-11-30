@@ -70,8 +70,9 @@
 
 // print_r($nomes);
 
-$nomes = ['Alcides Jose Costa'];
+// $nomes = ['Alcides Jose Costa'];
 
-$nome = implode(' ',$nomes);
+// $nome = implode(' ',$nomes);
 
-echo $nome;
+// echo $nome;
+echo 'teste de envio';
